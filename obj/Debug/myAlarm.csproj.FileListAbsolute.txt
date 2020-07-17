@@ -1,0 +1,10 @@
+C:\Users\soohyeok.park\Desktop\workspace\myAlarm\bin\Debug\myAlarm.exe
+C:\Users\soohyeok.park\Desktop\workspace\myAlarm\bin\Debug\myAlarm.pdb
+C:\Users\soohyeok.park\Desktop\workspace\myAlarm\bin\Debug\Interop.WMPLib.dll
+C:\Users\soohyeok.park\Desktop\workspace\myAlarm\obj\Debug\Interop.WMPLib.dll
+C:\Users\soohyeok.park\Desktop\workspace\myAlarm\obj\Debug\myAlarm.csproj.ResolveComReference.cache
+C:\Users\soohyeok.park\Desktop\workspace\myAlarm\obj\Debug\myAlarm.MainForm.resources
+C:\Users\soohyeok.park\Desktop\workspace\myAlarm\obj\Debug\myAlarm.Properties.Resources.resources
+C:\Users\soohyeok.park\Desktop\workspace\myAlarm\obj\Debug\myAlarm.csproj.GenerateResource.cache
+C:\Users\soohyeok.park\Desktop\workspace\myAlarm\obj\Debug\myAlarm.exe
+C:\Users\soohyeok.park\Desktop\workspace\myAlarm\obj\Debug\myAlarm.pdb
